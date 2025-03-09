@@ -142,9 +142,8 @@ header{
 
 .arrows{
     position: absolute;
-    top: 80%;
-    right: 70%;
-    z-index: 100;
+    top: 65%;
+    right: 282%;
     width: 100%;
     max-width:  200px;
     display: flex;
